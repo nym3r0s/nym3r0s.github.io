@@ -25,8 +25,7 @@ $(function(){
 
 $(document).ready(function(){
 	
-	// $("#loader").css("display","none");
-	// $("#loader").fadeOut();
+	$("#loader").fadeOut();
 
 
 	$("section.spotlight > div > img").each(function(index){
